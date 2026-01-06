@@ -1,0 +1,6 @@
+export const SEPOLIA_CHAIN_ID = 11155111;
+
+export const PAYMENT_CONTRACT_ADDRESS =
+  import.meta.env.VITE_PAYMENT_CONTRACT_ADDRESS;
+
+
